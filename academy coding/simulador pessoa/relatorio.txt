@@ -1,0 +1,13 @@
+Segue o resultados do paciente nas ultimas 24 horas, com coleta de dados a cada 2 horas;
+
+Batimentos cardiacos:
+86 bpm
+86 bpm
+
+Pressao arterial:
+
+ sistolica: 12
+ diastolica: 8
+
+ sistolica: 12
+ diastolica: 8
