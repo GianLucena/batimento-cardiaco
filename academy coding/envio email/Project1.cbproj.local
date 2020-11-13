@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/10 07:49:24.000.083,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/10 07:49:26.000.368,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/10 07:49:49.000.005,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020/11/10 08:40:34.000.676,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/10 09:15:20.000.309,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020/11/10 09:26:10.000.933,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/10 10:10:27.000.319,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/10 11:00:49.000.889,C:\Users\Usuario\Desktop\academy coding\teste\projetos\Unit1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/11/10 11:00:49.000.889,C:\Users\Usuario\Desktop\academy coding\teste\projetos\Unit1.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/10 11:00:49.000.889,C:\Users\Usuario\Desktop\academy coding\teste\projetos\Unit1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/11/10 11:01:30.000.144,C:\Users\Usuario\Desktop\academy coding\teste\projetos\File1.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020/11/10 11:01:34.000.766,C:\Users\Usuario\Desktop\academy coding\teste\projetos\Project1PCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/10 11:01:39.000.795,C:\Users\Usuario\Desktop\academy coding\teste\projetos\Project1.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
